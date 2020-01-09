@@ -1,1 +1,1 @@
-# deployJenkins 1..2..3 
+# deployJenkins 1 2 3 4 5
